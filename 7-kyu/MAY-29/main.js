@@ -12,8 +12,6 @@ it should output
 You have to use the filter-method which returns each element of the array for which the filter-method returns true.
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
-
-https://www.codewars.com/kata/525d9b1a037b7a9da7000905/javascript
 */
 
 //My solution
