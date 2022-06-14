@@ -8,8 +8,6 @@ Write a function howMuchWater (JS)/how_much_water (Python and Ruby) to work out 
 My washing machine is an old model that can only handle double the amount of load (or max_load). If the amount of clothes is more than 2 times the standard amount of load (max_load), return 'Too much clothes'. The washing machine also cannot handle any amount of clothes less than load (max_load). If that is the case, return 'Not enough clothes'.
 
 The answer should be rounded to the nearest 2 decimal places.
-
-https://www.codewars.com/kata/575fa9afee048b293e000287/javascript
 */
 
 //My solution
