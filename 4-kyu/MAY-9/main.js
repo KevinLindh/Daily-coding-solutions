@@ -33,8 +33,6 @@ Example 2 - following tree:
 Should return following list:
 
 [1,8,4,3,5,7]
-
-https://www.codewars.com/kata/52bef5e3588c56132c0003bc
 */
 
 //My solution
