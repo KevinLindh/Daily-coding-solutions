@@ -16,8 +16,6 @@ This is the first kata in the series:
 
     Sum of a sequence (this kata)
     Sum of a Sequence [Hard-Core Version]
-
-https://www.codewars.com/kata/586f6741c66d18c22800010a/javascript
 */
 
 // My solution
