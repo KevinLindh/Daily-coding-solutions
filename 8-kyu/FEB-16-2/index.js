@@ -7,8 +7,6 @@ Examples:
 rps('scissors','paper') // Player 1 won!
 rps('scissors','rock') // Player 2 won!
 rps('paper','paper') // Draw!
-
-https://www.codewars.com/kata/5672a98bdbdd995fad00000f/javascript
 */
 
 //My solution
