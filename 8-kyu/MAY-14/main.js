@@ -12,8 +12,6 @@ Define a class Person with the following properties:
 You may use any valid syntax you like; however, it is highly recommended that you complete this Kata using ES6 syntax and features.
 
 Have fun! :D
-
-https://www.codewars.com/kata/56f7f8215d7c12c0e7000b19
 */
 
 //My solution
