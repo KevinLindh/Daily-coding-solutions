@@ -16,8 +16,6 @@ I'm very curious for your solutions and the way you solve it. Maybe someone of y
 Have fun coding it and please don't forget to vote and rank this kata! :-)
 
 I have also created other katas. Take a look if you enjoyed this kata!
-
-https://www.codewars.com/kata/5813d19765d81c592200001a
 */
 
 //My solution
