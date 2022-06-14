@@ -6,9 +6,6 @@ You already implemented a Cube class, but now we need your help again! I'm talki
 Also we got a problem with negative values. Correct the code so negative values will be switched to positive ones!
 
 The constructor taking no arguments should assign 0 to Cube's Side property.
-
-
-https://www.codewars.com/kata/55c0ac142326fdf18d0000af/javascript
 */
 
 //My solution
