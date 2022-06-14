@@ -12,8 +12,6 @@ for example:
 cutIt(["ab","cde","fgh"]) should return ["ab","cd","fg"]
 cutIt(["abc","defgh","ijklmn"]) should return ["abc","def","ijk"]
 cutIt(["codewars","javascript","java"]) should return ["code","java","java"]
-
-https://www.codewars.com/kata/57274562c8dcebe77e001012/javascript
 */
 
 //My solution
