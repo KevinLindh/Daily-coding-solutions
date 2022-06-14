@@ -14,8 +14,6 @@ For the word "strength", solve("strength") = 57
 For C: do not mutate input.
 
 More examples in test cases. Good luck!
-
-https://www.codewars.com/kata/59c633e7dcc4053512000073
 */
 
 //My solution
