@@ -11,8 +11,6 @@ result = 2 (1 red pair + 1 blue pair)
 
 input = ["red", "red", "red", "red", "red", "red"]
 result = 3 (3 red pairs)
-
-https://www.codewars.com/kata/58235a167a8cb37e1a0000db/javascript
 */
 
 //My solution
