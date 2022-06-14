@@ -15,8 +15,6 @@ Good Luck!
 Note
 
 The given name may varies in casing, eg., it can be "George Saint Pierre" or "geOrGe saiNT pieRRE". Your solution should treat both as the same thing (case-insensitive).
-
-https://www.codewars.com/kata/582dafb611d576b745000b74
 */
 
 //My solution
