@@ -14,8 +14,6 @@ Testing: [0, 1, 1, 0] ==> 6
 Testing: [1, 1, 1, 1] ==> 15
 Testing: [1, 0, 1, 1] ==> 11
 However, the arrays can have varying lengths, not just limited to 4.
-
-https://www.codewars.com/kata/578553c3a1b8d5c40300037c/javascript
 */
 
 //My solution
