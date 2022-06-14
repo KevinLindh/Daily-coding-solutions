@@ -10,8 +10,6 @@ Examples
 Constraints
 
 0 <= input.length <= 100
-
-https://www.codewars.com/kata/52774a314c2333f0a7000688/javascript
 */
 
 // My solution
