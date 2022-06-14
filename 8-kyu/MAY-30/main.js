@@ -50,8 +50,6 @@ Notes
         MIT
         UNLICENSED
         SEE LICENSE IN filename
-
-https://www.codewars.com/kata/5692a582cc22387ccf000017
 */
 
 //My solution
