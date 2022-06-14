@@ -10,8 +10,6 @@ not at all
 When the last petal was torn there were cries of excitement, dreams, surging thoughts and emotions.
 
 Your goal in this kata is to determine which phrase the girls would say for a flower of a given number of petals, where nb_petals > 0.
-
-https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/javascript
 */
 
 // My solution
