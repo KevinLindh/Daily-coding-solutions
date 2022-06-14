@@ -9,8 +9,6 @@ You must implement a function that returns the difference between the largest an
 [1, 2, 3, -4]  //  returns 7 because 3 - (-4) == 7
 
 Have fun!
-
-https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/javascript
 */
 
 // My solution
