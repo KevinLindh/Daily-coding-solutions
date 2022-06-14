@@ -14,8 +14,6 @@ Example
 For h = 4, H = 16, S = 3, the output should be 20.
 
 For h = 8, H = 9, S = 37, the output should be 42.5869.
-
-https://www.codewars.com/kata/59016379ee5456d8cc00000f
 */
 
 // My solution
