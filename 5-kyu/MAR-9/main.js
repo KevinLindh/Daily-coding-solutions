@@ -27,8 +27,6 @@ sum_pairs([10, 5, 2, 3, 7, 5],         10)
 Negative numbers and duplicate numbers can and will appear.
 
 NOTE: There will also be lists tested of lengths upwards of 10,000,000 elements. Be sure your code doesn't time out.
-
-https://www.codewars.com/kata/54d81488b981293527000c8f/javascript
 */
 
 //My solution
