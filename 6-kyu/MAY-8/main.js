@@ -14,8 +14,6 @@ Step 2: Now create a function called decode() to turn the numbers back into vowe
 For example, decode("h3 th2r2") would return "hi there".
 
 For the sake of simplicity, you can assume that any numbers passed into the function will correspond to vowels.
-
-https://www.codewars.com/kata/53697be005f803751e0015aa
 */
 
 //My solution
