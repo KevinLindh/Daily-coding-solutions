@@ -27,8 +27,6 @@ The lowest index N where the side to the left of N is equal to the side to the r
 
 Note:
 If you are given an array with multiple answers, return the lowest correct index.
-
-https://www.codewars.com/kata/5679aa472b8f57fb8c000047/javascript
 */
 
 // My solution
