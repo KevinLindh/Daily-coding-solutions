@@ -22,8 +22,6 @@ Note:
     Xray should not have a dash within.
     Every word and punctuation mark should be seperated by a space ' '.
     There should be no trailing whitespace
-
-https://www.codewars.com/kata/586538146b56991861000293/javascript
 */
 
 // My solution
