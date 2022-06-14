@@ -13,8 +13,6 @@ function Node(data, next = null) {
 Note: the list may be null and can hold any type of value.
 
 Good luck!
-
-https://www.codewars.com/kata/581c867a33b9fe732e000076/javascript
 */
 
 //My solution
