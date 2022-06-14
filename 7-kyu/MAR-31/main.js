@@ -13,8 +13,6 @@ Your task is to make a function that takes the value of word and returns it with
     The first letter should not be lowercase, for example road.
 
 If the word does not meet the rules, we return "Invalid word".
-
-https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98/javascript
 */
 
 //My solution
