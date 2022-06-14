@@ -11,8 +11,6 @@ Examples:
 "isn't", "'tisn" => 2
 "Esham", "Esham" => 0
 "dog", "god" => -1
-
-https://www.codewars.com/kata/5596f6e9529e9ab6fb000014/javascript
 */
 
 //My solution
