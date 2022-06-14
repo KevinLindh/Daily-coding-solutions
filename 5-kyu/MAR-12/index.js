@@ -8,8 +8,6 @@ Write a function, which takes a non-negative integer (seconds) as input and retu
 The maximum time never exceeds 359999 (99:59:59)
 
 You can find some examples in the test fixtures.
-
-https://www.codewars.com/kata/52685f7382004e774f0001f7/javascript
 */
 
 // My solution
