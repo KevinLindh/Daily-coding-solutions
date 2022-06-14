@@ -8,8 +8,6 @@ n= 5, m=5: 25
 n=-5, m=5:  0
 
 Waiting for translations and Feedback! Thanks!
-
-https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/javascript
 */
 
 // My solution
