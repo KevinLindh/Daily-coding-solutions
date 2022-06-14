@@ -25,8 +25,6 @@ Thus Mr. Scrooge has to wait for 3 years for the initial principal to amount to 
 Your task is to complete the method provided and return the number of years 'Y' as a whole in order for Mr. Scrooge to get the desired sum.
 
 Assumption: Assume that Desired Principal 'D' is always greater than the initial principal. However it is best to take into consideration that if Desired Principal 'D' is equal to Principal 'P' this should return 0 Years.
-
-https://www.codewars.com/kata/563f037412e5ada593000114/javascript
 */
 
 // My solution
