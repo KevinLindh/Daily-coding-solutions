@@ -38,8 +38,6 @@ The Morse code table is preloaded for you as a dictionary, feel free to use it:
 All the test strings would contain valid Morse code, so you may skip checking for errors and exceptions. In C#, tests will fail if the solution code throws an exception, please keep that in mind. This is mostly because otherwise the engine would simply ignore the tests, resulting in a "valid" solution.
 
 Good luck!
-
-https://www.codewars.com/kata/54b724efac3d5402db00065e
 */
 
 //My solution
