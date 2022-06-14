@@ -10,8 +10,6 @@ Examples
 For example the array [2, 3, 9] equals 239, adding one would return the array [2, 4, 0].
 
 [4, 3, 2, 5] would return [4, 3, 2, 6]
-
-https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9
 */
 
 //My solution
