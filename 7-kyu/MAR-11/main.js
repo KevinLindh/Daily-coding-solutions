@@ -6,8 +6,6 @@ Example: (Input --> Output)
 "Dermatoglyphics" --> true
 "aba" --> false
 "moOse" --> false (ignore letter case)
-
-https://www.codewars.com/kata/54ba84be607a92aa900000f1/solutions/javascript
 */
 
 // My solution
