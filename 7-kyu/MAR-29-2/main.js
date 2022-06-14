@@ -7,8 +7,6 @@ In this kata, you will be given an array. Each value represents a meeting room. 
 'O' --> empty
 
 If all rooms are busy, return "None available!"
-
-https://www.codewars.com/kata/57f604a21bd4fe771b00009c
 */
 
 //My solution
