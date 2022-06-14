@@ -9,8 +9,6 @@ Examples:
 mineLocation( [ [1, 0, 0], [0, 0, 0], [0, 0, 0] ] ) => returns [0, 0]
 mineLocation( [ [0, 0, 0], [0, 1, 0], [0, 0, 0] ] ) => returns [1, 1]
 mineLocation( [ [0, 0, 0], [0, 0, 0], [0, 1, 0] ] ) => returns [2, 1]
-
-https://www.codewars.com/kata/528d9adf0e03778b9e00067e
 */
 
 //My solution
