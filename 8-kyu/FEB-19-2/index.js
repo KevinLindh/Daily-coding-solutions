@@ -14,8 +14,6 @@ A few cases:
 
 (4, 1, 4)     ->  true
 (15, -5, 3)   ->  true
-
-https://www.codewars.com/kata/5a2b703dc5e2845c0900005a/javascript
 */
 
 //My solution
