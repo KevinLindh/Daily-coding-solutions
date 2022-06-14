@@ -28,8 +28,6 @@ Examples:
 
 nbrOfLaps(5, 3); // returns [3, 5]
 nbrOfLaps(4, 6); // returns [3, 2]
-
-https://www.codewars.com/kata/5274d9d3ebc3030802000165
 */
 
 //My solution
