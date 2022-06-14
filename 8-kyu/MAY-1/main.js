@@ -9,8 +9,6 @@ Refactor the solution to use as few characters as possible. There is a maximum c
     Don't you think the array parameter is a bit wordy? ;)
 
 Good luck! :D
-
-https://www.codewars.com/kata/56f4f7cfaf5b1f8cd100060e/javascript
 */
 
 //My solution
