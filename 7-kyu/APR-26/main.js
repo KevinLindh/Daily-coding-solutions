@@ -13,8 +13,6 @@ explode("102269")
 should return :
 
 "12222666666999999999"
-
-https://www.codewars.com/kata/585b1fafe08bae9988000314/javascript
 */
 
 //My solution
