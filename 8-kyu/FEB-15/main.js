@@ -7,8 +7,6 @@ doubleChar("Hello World") ==> "HHeelllloo  WWoorrlldd"
 
 doubleChar("1234!_ ") ==> "11223344!!__  "
 Good Luck!
-
-https://www.codewars.com/kata/56b1f01c247c01db92000076/javascript
 */
 
 //My solution
