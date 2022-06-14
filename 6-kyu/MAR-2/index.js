@@ -10,8 +10,6 @@ Example
   deleteNth ([1,1,1,1],2) // return [1,1]
   
   deleteNth ([20,37,20,21],1) // return [20,37,21]
-
-https://www.codewars.com/kata/554ca54ffa7d91b236000023/javascript
 */
 
 // My solution
