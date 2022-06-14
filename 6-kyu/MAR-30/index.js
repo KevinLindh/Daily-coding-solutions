@@ -30,8 +30,6 @@ the answer is
 ["abcde", 1]
 
 because for this string "abcde" the minimum substring t, such that s is t repeated k times, is itself.
-
-https://www.codewars.com/kata/5491689aff74b9b292000334/javascript
 */
 
 //My solution
