@@ -17,8 +17,6 @@ A word (string) of length 0 < str < 1000 (In javascript you may get slightly mor
 #Output
 
 The middle character(s) of the word represented as a string.
-
-https://www.codewars.com/kata/56747fd5cb988479af000028/javascript
 */
 
 // My solution
