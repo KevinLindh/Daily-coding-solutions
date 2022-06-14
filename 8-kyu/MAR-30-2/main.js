@@ -18,8 +18,6 @@ elevator(0, 1, 1); // => "right"
 elevator(0, 1, 2); // => "right"
 elevator(0, 0, 0); // => "right"
 elevator(0, 2, 1); // => "right"
-
-https://www.codewars.com/kata/5c374b346a5d0f77af500a5a/javascript
 */
 
 //My solution
