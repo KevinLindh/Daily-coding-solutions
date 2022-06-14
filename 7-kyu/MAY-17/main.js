@@ -18,8 +18,6 @@ passHash("abc123") // --> "e99a18c428cb38d5f260853678922e03"
 If you want to externally test a string, look at this website.
 
 As a side note, md5 can be exploited, so never use it for anything secure. The reason I used it in this kata is simply because it is a very common hashing algorithm and many people will recognize the name.
-
-https://www.codewars.com/kata/54207f9677730acd490000d1
 */
 
 //My solution
