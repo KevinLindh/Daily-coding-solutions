@@ -5,8 +5,6 @@ Examples:
 
 * 'abc' =>  ['ab', 'c_']
 * 'abcdef' => ['ab', 'cd', 'ef']
-
-https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/javascript
 */
 
 //My solution
