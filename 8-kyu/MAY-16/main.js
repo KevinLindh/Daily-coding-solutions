@@ -41,8 +41,6 @@ expressionsMatter(9,1,1)  ==>  return 18
 Explanation:
 
 After placing signs and brackets, the Maximum value obtained from the expression is 9 * (1+1) = 18.
-
-https://www.codewars.com/kata/5ae62fcf252e66d44d00008e
 */
 
 //My solution
