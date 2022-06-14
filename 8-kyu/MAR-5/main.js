@@ -6,8 +6,6 @@ Complete the function that takes a string as an argument representing the curren
 For example, update_light('green') should return 'yellow'.
 
 Note: Use "" instead of '' in C++.
-
-https://www.codewars.com/kata/58649884a1659ed6cb000072/javascript
 */
 
 //My solution
