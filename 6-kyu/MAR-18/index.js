@@ -13,8 +13,6 @@ Example
 is_prime(1)   false 
 is_prime(2)   true  
 is_prime(-1)  false 
-
-https://www.codewars.com/kata/5262119038c0985a5b00029f
 */
 
 //My solution
