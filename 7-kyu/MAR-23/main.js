@@ -14,8 +14,6 @@ Bash note:
 
     input : 2 strings with substrings separated by ,
     output: number as a string
-
-https://www.codewars.com/kata/5663f5305102699bad000056/javascript
 */
 
 // My solution
