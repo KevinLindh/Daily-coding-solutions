@@ -29,8 +29,6 @@ function Node(data, next = null) {
 Note: the list may be null and can hold any type of value.
 
 Good luck!
-
-https://www.codewars.com/kata/58319f37aeb69a89a00000c7
 */
 
 //My solution
