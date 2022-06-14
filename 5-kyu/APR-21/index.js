@@ -41,8 +41,6 @@ Limits
 0 <= number of orders <= 30
 0 <= size of orders <= 40
 0 <= coffee machines <= number of orders
-
-https://www.codewars.com/kata/624f3171c0da4c000f4b801d
 */
 
 //My solution
