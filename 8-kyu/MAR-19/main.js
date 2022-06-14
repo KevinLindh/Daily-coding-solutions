@@ -10,8 +10,6 @@ Examples (Input -> Output)
 Notes
 
     You may consider that there will not be any empty arrays/vectors.
-
-https://www.codewars.com/kata/577a98a6ae28071780000989
 */
 
 // My solution
