@@ -34,8 +34,6 @@ arrAdder([
   [ '', 'r', '', '', 'e', '', '', '' ],
   [ '', 'i', '', '', '', '', '', '' ],
   [ '', 'a', '', '', '', '', '', '' ] ]) // => "The Mitochondria is the powerhouse of the cell"
-
-https://www.codewars.com/kata/59778cb1b061e877c50000cc/javascript
 */
 
 //My solution
