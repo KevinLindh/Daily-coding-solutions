@@ -18,8 +18,6 @@ Examples
 "dgm" ==> "disturbing gregarious mustache"
 
 "lkj" ==> "literal klingon joke"
-
-https://www.codewars.com/kata/55805ab490c73741b7000064
 */
 
 //My solution
