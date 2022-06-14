@@ -41,8 +41,6 @@ Rules
 To Java warriors
 
 Robot class is immutable.
-
-https://www.codewars.com/kata/566b490c8b164e03f8000002/javascript
 */
 
 //My solution
