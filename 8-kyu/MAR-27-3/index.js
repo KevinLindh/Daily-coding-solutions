@@ -24,8 +24,6 @@ Examples(Inputs-->Output):
 20, 2 --> 0
 
 *Use Comparison and Logical Operators.
-
-https://www.codewars.com/kata/5ad0d8356165e63c140014d4/javascript
 */
 
 //My solution
