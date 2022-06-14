@@ -14,8 +14,6 @@ Examples
 " Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
 "    Hello     World   "                  =>  "#HelloWorld"
 ""                                        =>  false
-
-https://www.codewars.com/kata/52449b062fb80683ec000024/javascript
 */
 
 //My solution
