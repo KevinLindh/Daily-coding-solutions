@@ -9,8 +9,6 @@ S is misinterpreted as 5
 O is misinterpreted as 0
 I is misinterpreted as 1
 The test cases contain numbers only by mistake.
-
-https://www.codewars.com/kata/577bd026df78c19bca0002c0/javascript
 */
 
 // My solution
