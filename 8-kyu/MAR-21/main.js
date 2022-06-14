@@ -14,8 +14,6 @@ Notes:
     there are 10 matches in the championship
     0 <= x <= 4
     0 <= y <= 4
-
-https://www.codewars.com/kata/5bb904724c47249b10000131
 */
 
 //My solution
