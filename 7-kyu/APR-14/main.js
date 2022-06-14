@@ -7,8 +7,6 @@ Example:
 [2015, 8, 26]     =>  "3479"
 
 Note: the digits in the resulting string should be sorted.
-
-https://www.codewars.com/kata/55de6173a8fbe814ee000061/javascript
 */
 
 //My solution
