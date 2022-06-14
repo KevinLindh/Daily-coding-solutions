@@ -8,8 +8,6 @@ Examples
 
 [1, 1, 2] ==> 2
 [17, 17, 3, 17, 17, 17, 17] ==> 3
-
-https://www.codewars.com/kata/57f609022f4d534f05000024
 */
 
 //My solution
