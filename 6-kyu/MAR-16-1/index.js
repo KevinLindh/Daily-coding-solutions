@@ -7,8 +7,6 @@ Should return: 11 (the only odd number)
 
 [160, 3, 1719, 19, 11, 13, -21]
 Should return: 160 (the only even number)
-
-https://www.codewars.com/kata/5526fc09a1bbd946250002dc/javascript
 */
 
 //My solution
