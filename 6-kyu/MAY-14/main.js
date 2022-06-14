@@ -16,8 +16,6 @@ Prerequisites:
     Advance cancer cell,should be cut out with adjacent cells if it can be done.
 
 Function input is a string (representing a body), remove "cancer" characters (based on the described rules) and return the body cured of those "cancer" characters.
-
-https://www.codewars.com/kata/5931614bb2f657c18c0001c3
 */
 
 //Solution
