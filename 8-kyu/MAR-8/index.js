@@ -49,8 +49,6 @@ You can use if..else or ternary operator to complete it.
 When you have finished the work, click "Run Tests" to see if your code is working properly.
 
 In the end, click "Submit" to submit your code pass this kata.
-
-https://www.codewars.com/kata/57202aefe8d6c514300001fd/javascript
 */
 
 //My solution
