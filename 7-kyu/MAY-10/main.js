@@ -19,8 +19,6 @@ Notes
     There can be duplicate letters and numbers.
 
 If you like this kata, check out the next one: Last Survivors Ep.2
-
-https://www.codewars.com/kata/609eee71109f860006c377d1
 */
 
 //My solution
