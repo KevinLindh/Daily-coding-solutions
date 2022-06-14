@@ -33,8 +33,6 @@ sepStr("The Mitochondria is the powerhouse of the cell")
 // => [ '', 'r', '', '', 'e', '', '', '' ],
 // => [ '', 'i', '', '', '', '', '', '' ],
 // => [ '', 'a', '', '', '', '', '', '' ]]
-
-https://www.codewars.com/kata/5977ef1f945d45158d00011f/javascript
 */
 
 //My solution
