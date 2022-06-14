@@ -7,8 +7,6 @@ Your task is to complete the Cat class which Extends Animal and replace the spea
 The name attribute is passed with this.name (JS), @name (Ruby) or self.name (Python).
 
 Reference: JS, Ruby, Python.
-
-https://www.codewars.com/kata/55a14aa4817efe41c20000bc/javascript
 */
 
 //My solution
