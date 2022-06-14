@@ -10,8 +10,6 @@ Examples
 {"C++": 50, "ASM": 10, "Haskell": 20}     -->  []
 My other katas
 If you enjoyed this kata then please try my other katas! :-)
-
-https://www.codewars.com/kata/5b16490986b6d336c900007d
 */
 
 //My solution
