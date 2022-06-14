@@ -20,8 +20,6 @@ If there are no numbers of this kind in the range [a, b] the function should out
 sumDigPow(90, 100) == []
 
 Enjoy it!!
-
-https://www.codewars.com/kata/5626b561280a42ecc50000d1
 */
 
 //My solution
