@@ -22,8 +22,6 @@ fizzBuzzCustom()[44]                         // returns "FizzBuzz" (45 is divisi
 fizzBuzzCustom('Hey', 'There')[25]         // returns 26
 fizzBuzzCustom('Hey', 'There')[11]         // returns "Hey" (12 is divisible by 3)
 fizzBuzzCustom("What's ", "up?", 3, 7)[80] // returns "What's " (81 is divisible by 3)
-
-https://www.codewars.com/kata/5355a811a93a501adf000ab7/javascript
 */
 
 //My solution
