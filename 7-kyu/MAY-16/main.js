@@ -11,8 +11,6 @@ Examples (inputs -> output)
 * 7, 1  -->     7  (7^1)
 * 5, 2  -->  3125  (5^5)
 * 2, 3  -->    16  (2^(2^2))
-
-https://www.codewars.com/kata/5797bbb34be9127074000132/javascript
 */
 
 //My solution
