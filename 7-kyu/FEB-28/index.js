@@ -19,8 +19,6 @@ Examples
  4  =>  true
 25  =>  true
 26  =>  false
-
-https://www.codewars.com/kata/54c27a33fb7da0db0100040e/javascript
 */
 
 //My solution
