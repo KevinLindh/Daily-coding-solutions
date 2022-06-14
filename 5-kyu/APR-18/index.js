@@ -7,8 +7,6 @@ You need to write regex that will validate a password to make sure it meets the 
     contains a number
 
 Valid passwords will only be alphanumeric characters.
-
-https://www.codewars.com/kata/52e1476c8147a7547a000811
 */
 
 //My solution
