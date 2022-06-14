@@ -26,8 +26,6 @@ matrixAddition(
   [ [3, 4, 4],
     [6, 4, 4],
     [2, 2, 4] ]
-
-https://www.codewars.com/kata/526233aefd4764272800036f
 */
 
 //My solution
