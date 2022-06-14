@@ -14,8 +14,6 @@ Notes:
 
 The first argument can be an empty string
 The second string argument will always be of length 1
-
-https://www.codewars.com/kata/5865918c6b569962950002a1/javascript
 */
 
 //My Solution
