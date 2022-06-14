@@ -23,8 +23,6 @@ pattern(5):
 Note: There are no spaces in the pattern
 
 Hint: Use \n in string to jump to next line
-
-https://www.codewars.com/kata/55749101ae1cf7673800003e/javascript
 */
 
 // My solution
