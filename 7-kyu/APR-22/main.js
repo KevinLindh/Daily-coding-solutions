@@ -20,8 +20,6 @@ const EVEN = "Even";
 const EITHER = "Either";
 
 is Preloaded.
-
-https://www.codewars.com/kata/619f200fd0ff91000eaf4a08
 */
 
 //My solution
