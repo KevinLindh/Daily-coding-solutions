@@ -21,8 +21,6 @@ The Office I - Outed
 The Office II - Boredeom Score
 The Office III - Broken Photocopier
 The Office IV - Find a Meeting Room
-
-https://www.codewars.com/kata/57f6051c3ff02f3b7300008b
 */
 
 //My solution
