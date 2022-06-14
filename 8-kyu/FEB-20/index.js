@@ -10,8 +10,6 @@ Examples
 "605"  --> 605
 "1405" --> 1405
 "-7" --> -7
-
-https://www.codewars.com/kata/544675c6f971f7399a000e79/javascript
 */
 
 // My solution
