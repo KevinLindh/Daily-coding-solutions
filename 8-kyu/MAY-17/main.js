@@ -16,8 +16,6 @@ Example:
 ["M4A1", 6] => 1
 
 The return Will always be an integer so as the params.
-
-https://www.codewars.com/kata/5ab52526379d20736b00000e
 */
 
 //My solution
