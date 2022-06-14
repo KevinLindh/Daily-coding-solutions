@@ -5,8 +5,6 @@ Strings passed in will consist of only letters and spaces. Spaces will be includ
 
 Examples: spinWords( "Hey fellow warriors" ) => returns "Hey wollef sroirraw" spinWords( "This is a test") => returns "This is a test" 
 spinWords( "This is another test" )=> returns "This is rehtona test"
-
-https://www.codewars.com/kata/5264d2b162488dc400000001
 */
 
 //My solution
