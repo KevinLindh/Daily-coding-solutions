@@ -7,8 +7,6 @@ This is the first part. You can solve the second part here when you are done wit
     The returned "number" should not start with zeros e.g. 0123 is invalid
 
 Note: 100 randomly generated tests!
-
-https://www.codewars.com/kata/55911ef14065454c75000062/javascript
 */
 
 //My solution
