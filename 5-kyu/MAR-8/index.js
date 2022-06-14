@@ -22,8 +22,6 @@ while
 
 should return: "Total land perimeter: 18"
 Good luck!
-
-https://www.codewars.com/kata/5839c48f0cf94640a20001d3/javascript
 */
 
 //My solution
