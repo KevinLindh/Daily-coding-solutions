@@ -22,8 +22,6 @@ He also mentioned, he knows this kind of locks. You can enter an unlimited amoun
 Can you help us to find all those variations? It would be nice to have a function, that returns an array (or a list in Java/Kotlin and C#) of all variations for an observed PIN with a length of 1 to 8 digits. We could name the function getPINs (get_pins in python, GetPINs in C#). But please note that all PINs, the observed one and also the results, must be strings, because of potentially leading '0's. We already prepared some test cases for you.
 
 Detective, we are counting on you!
-
-https://www.codewars.com/kata/5263c6999e0f40dee200059d/javascript
 */
 
 // My solution
