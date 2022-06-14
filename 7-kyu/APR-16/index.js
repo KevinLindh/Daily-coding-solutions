@@ -48,8 +48,6 @@ Example test cases:
   ['o', 'o', 'o', 'o', 'o', 'o', 'x', 'o'],
   ['o', 'o', 'o', 'o', 'o', 'o', 'o', 'o']
 ]
-
-https://www.codewars.com/kata/5777fe3f355edbf0a5000d11
 */
 
 //My solution
