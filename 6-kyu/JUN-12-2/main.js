@@ -12,8 +12,6 @@ Examples
   100000  ->     "100,000"
  1000000  ->   "1,000,000"
 35235235  ->  "35,235,235"
-
-https://www.codewars.com/kata/5274e122fc75c0943d000148
 */
 
 //My solution
