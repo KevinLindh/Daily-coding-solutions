@@ -34,8 +34,6 @@ First and last bits as set bits.
 (7)10 = (111)2
 
 First and last bits as set bits.
-
-https://www.codewars.com/kata/5a662a02e626c54e87000123/solutions/javascript/me/best_practice
 */
 
 //My solution
