@@ -9,8 +9,6 @@ Examples
 
     don't worry about uppercase vowels
     y is not considered a vowel for this kata
-
-https://www.codewars.com/kata/5547929140907378f9000039/javascript
 */
 
 //My solution
