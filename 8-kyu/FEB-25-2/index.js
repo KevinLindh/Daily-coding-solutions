@@ -12,8 +12,6 @@ time = 3 ----> litres = 1
 time = 6.7---> litres = 3
 
 time = 11.8--> litres = 5
-
-https://www.codewars.com/kata/582cb0224e56e068d800003c/javascript
 */
 
 // My solution
