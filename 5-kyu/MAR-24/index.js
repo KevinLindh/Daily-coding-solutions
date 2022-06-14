@@ -19,8 +19,6 @@ anagrams('laser', ['lazing', 'lazy',  'lacer']) => []
 
 Note for Go
 For Go: Empty string slice is expected when there are no anagrams found.
-
-https://www.codewars.com/kata/523a86aa4230ebb5420001e1
 */
 
 //My solution
