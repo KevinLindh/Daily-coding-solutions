@@ -20,8 +20,6 @@ Example
 wave("hello") => ["Hello", "hEllo", "heLlo", "helLo", "hellO"]
 
 Good luck and enjoy!
-
-https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/javascript
 */
 
 // My solution
