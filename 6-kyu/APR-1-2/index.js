@@ -17,8 +17,6 @@ Examples
 1294     =>  false 
 "109982" =>  "Not valid"
 -42      =>  "Not valid"
-
-https://www.codewars.com/kata/58e26b5d92d04c7a4f00020a
 */
 
 //My solution
