@@ -41,8 +41,6 @@ Return the bag after for loop finished.
 You should use for, break and continue in your code. otherwise, your solution may not pass this kata.
 
 If you forgot how to push an element to array, please refer to lesson 4.
-
-https://www.codewars.com/kata/5721c189cdd71194c1000b9b/javascript
 */
 
 //My solution
