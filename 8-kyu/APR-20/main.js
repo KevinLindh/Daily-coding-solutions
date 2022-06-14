@@ -45,8 +45,6 @@ colorOf(0,111,0) should return "#006f00"
 colorOf(1, 2 ,3) should return "#010203"
 
 That's all of your work. My work is print your color code on your screen.
-
-https://www.codewars.com/kata/57238ceaef9008adc7000603/javascript
 */
 
 //My solution
