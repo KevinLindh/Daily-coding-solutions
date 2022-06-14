@@ -39,8 +39,6 @@ num == 16 would return 4 steps:
 8 -- x2 --> 16:       4 steps
 
 4 steps
-
-https://www.codewars.com/kata/5cd4aec6abc7260028dcd942
 */
 
 //My solution
