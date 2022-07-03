@@ -1,7 +1,8 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/KevinLindh" >Visit Here</a> 
 
-![alt tag](https://github.com/KevinLindh/codewars/blob/bd24b8a6a04b4bf01c46cc73b56542955cfc0af3/codewars-img.png)
-A repository filled with codewars challenges (kata). Currently Ranked #2830 on the global leaderboard, Ranked at top 1% of all existing users and Push 7 solutions every week.
+![codewars](https://user-images.githubusercontent.com/94518833/177034044-d8a531a0-a0ac-4862-9921-7c7b8c5836b2.jpg)
+
+A repository filled with codewars challenges (kata). Currently Ranked #1488 on the global leaderboard, Ranked at top 1% of all existing users and Push 7 solutions every week.
 
 ## How It's Made:
 
