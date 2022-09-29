@@ -1,6 +1,7 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/KevinLindh" >Visit Here</a> 
 
-![codewars](https://user-images.githubusercontent.com/94518833/177034044-d8a531a0-a0ac-4862-9921-7c7b8c5836b2.jpg)
+![codewars](https://user-images.githubusercontent.com/94518833/192976830-8b54ef66-eda1-41f5-8f85-ab1f1f381532.JPG)
+
 
 A repository filled with codewars challenges (kata). Currently Ranked #1488 on the global leaderboard, Ranked at top 1% of all existing users and Push 7 solutions every week.
 
