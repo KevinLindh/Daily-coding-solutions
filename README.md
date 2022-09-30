@@ -3,7 +3,7 @@
 ![codewars](https://user-images.githubusercontent.com/94518833/192976830-8b54ef66-eda1-41f5-8f85-ab1f1f381532.JPG)
 
 
-A repository filled with codewars challenges (kata). Currently Ranked #1488 on the global leaderboard, Ranked at top 1% of all existing users and Push 7 solutions every week.
+A repository filled with codewars challenges (kata). Currently Ranked #1233 on the global leaderboard, Ranked at top 1% of all existing users and Push 7 solutions every week.
 
 ## How It's Made:
 
