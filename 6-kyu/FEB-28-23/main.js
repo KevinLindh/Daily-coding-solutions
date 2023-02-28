@@ -29,3 +29,49 @@ Example
 */
 
 //My solution
+function door(events) {
+  let answer = ""
+  let count = 0;
+  let active = false;
+  let up = true;
+  let newArr = events.split("");
+  for(let i = 0; i < newArr.length; i++){
+    if(newArr[i] === "P" && !active){
+      active = true;
+      if(up){
+          count++;
+        } else {
+          count--;
+        }
+    } else if(count === 5 && up && newArr[i] === "P" && active){
+      up = false
+      count--;
+    } else if(count === 0 && !up && newArr[i] === "P" && active){
+      up = true;
+      count++;
+    }else if(newArr[i] === "P" && active){
+      active = false;
+    } else if(newArr[i] === "O"){
+      if(up){
+        up = false;
+        count--;
+      } else{
+        up = true;
+        count++;
+      }
+    } else if(active && up){
+      if(count < 5){
+          count++;
+        }
+    } else if(active && !up){
+      if(count > 0){
+        count--
+      }
+    } else {
+      
+    }
+    answer += count;
+  }
+  console.log(events)
+  return answer;
+}
